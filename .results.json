@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2023-10-04T11:43:55.987Z",
-    "end": "2023-10-04T11:43:56.559Z",
-    "duration": 572
+    "start": "2023-10-24T04:34:41.633Z",
+    "end": "2023-10-24T04:34:42.094Z",
+    "duration": 461
   },
   "tests": [
     {
@@ -41,7 +41,7 @@
     {
       "title": "contains \"WELCOME TO FLATBOOK, \"",
       "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,7 +115,7 @@
     {
       "title": "contains \"WELCOME TO FLATBOOK, \"",
       "fullTitle": "index.js excitedWelcomeMessage contains \"WELCOME TO FLATBOOK, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
